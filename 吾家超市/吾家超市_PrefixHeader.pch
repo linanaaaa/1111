@@ -1,0 +1,26 @@
+//
+//  吾家超市_PrefixHeader.pch
+//  吾家超市
+//
+//  Created by iMac15 on 2016/10/21.
+//  Copyright © 2016年 iMac15. All rights reserved.
+//
+
+#ifndef _____PrefixHeader_pch
+#define _____PrefixHeader_pch
+
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import "WJLibrary.h"
+
+#import "APIStringMacros.h"
+
+#define MAS_SHORTHAND           // 对于约束参数可以省去"mas_"
+
+#define MAS_SHORTHAND_GLOBALS   // 对于默认的约束参数自动装箱
+
+#import "Masonry.h"
+
+#endif /* _____PrefixHeader_pch */

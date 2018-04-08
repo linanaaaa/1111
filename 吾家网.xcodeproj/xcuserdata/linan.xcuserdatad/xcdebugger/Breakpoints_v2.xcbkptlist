@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x543e;&#x5bb6;&#x8d85;&#x5e02;/Classes/HomePageVC/Controller/ChooseAddressVC.m"
+            timestampString = "543376625.04968"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "-tagsView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x543e;&#x5bb6;&#x8d85;&#x5e02;/Classes/Login&amp;RegisterVC/Controller/LoginVC.m"
+            timestampString = "544612068.594779"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "-loadThePublicKey"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__27-[LoginVC loadThePublicKey]_block_invoke"
+                  moduleName = "&#x543e;&#x5bb6;&#x7f51;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linan/Downloads/%E5%90%BE%E5%AE%B6%E8%B6%85%E5%B8%82%202/%E5%90%BE%E5%AE%B6%E8%B6%85%E5%B8%82/Classes/Login&amp;RegisterVC/Controller/LoginVC.m"
+                  timestampString = "544608069.5797319"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "918">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_"
+                  moduleName = "&#x543e;&#x5bb6;&#x7f51;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linan/Downloads/%E5%90%BE%E5%AE%B6%E8%B6%85%E5%B8%82%202/%E5%90%BE%E5%AE%B6%E8%B6%85%E5%B8%82/Classes/Login&amp;RegisterVC/Controller/LoginVC.m"
+                  timestampString = "544608069.585248"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x543e;&#x5bb6;&#x8d85;&#x5e02;/Classes/ShopCarVC/Controller/ShopCarVC.m"
+            timestampString = "544847137.329294"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "245"
+            endingLineNumber = "245"
+            landmarkName = "-tableView:heightForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x543e;&#x5bb6;&#x8d85;&#x5e02;/Classes/ShopCarVC/Controller/ShopCarVC.m"
+            timestampString = "544847170.1534671"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
